@@ -1,6 +1,6 @@
 # Lego_Trust_Game
 
-
+#### you can find dataset [here on Kaggle](https://www.kaggle.com/mohammadnili/lego-trust-game)
 
 ## table_rule 
 > (cheat/cheat)(trust/trust)(trust/cheat)(cheat/trust) * (rewards/ punishment)
