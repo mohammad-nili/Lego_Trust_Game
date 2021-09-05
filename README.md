@@ -1,5 +1,7 @@
 # Lego_Trust_Game
 
+[![IMG-1649.jpg](https://i.postimg.cc/fLZyVVwx/IMG-1649.jpg)](https://postimg.cc/jWgt9dn5)
+
 #### you can find dataset [here on Kaggle](https://www.kaggle.com/mohammadnili/lego-trust-game)
 
 ## table_rule 
