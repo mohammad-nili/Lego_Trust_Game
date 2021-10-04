@@ -4,8 +4,8 @@
 
 #### you can find dataset [here on Kaggle](https://www.kaggle.com/mohammadnili/lego-trust-game)
 
-## table_rule 
-> (cheat/cheat)(trust/trust)(trust/cheat)(cheat/trust) * (rewards/ punishment)
+## :game_die: Rule Table :
+> [ (cheat/cheat) or (trust/trust) or (trust/cheat) or (cheat/trust) ] . [rewards or punishment]
 
 
                \          T2                C2
@@ -18,14 +18,23 @@
        C1  !                   !                     !
           !   R1 = +3         !    P1 = 0           !
           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## :gear: Game Init  :
+  - Each player has :
+  > A batch of lego slicea batch of colorful lego slices <br>
+  > An score initialized to 0  <br>
+  > List of movements initialized to empty   <br>
+  - there is a common resource in the middle
 
-  ?????????????????????????  
-  ????? Our Questions ????     
-  ???????????????????????       
-   - When peaple Trust to each other and why ?
-   - Is gender a critical variable for Trust ?
+## :video_game: :ski: Game plan : 
+ In each steps , both participants hide one lego slice in one of their's hand secretly.  <br>
+ Fist both hands bring them forward. <br>
+ Simultaneously both players open one hand of their choice.
+ 
+## Questions :question:
+- When peaple Trust to each other and why ?
+- Is gender a critical variable for Trust ?
    
- Descriptive Analysis phase :               
+ :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: Descriptive Analysis phase  :               
  - How kids trust ?
  > to adult <br>
  > to other kids     (this part by help of some friens for access to kids) <br>
